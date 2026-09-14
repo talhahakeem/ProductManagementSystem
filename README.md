@@ -11,7 +11,7 @@ A full-stack cloud-integrated application designed to manage product lifecycles 
 * 📦 Complete Product CRUD operations
 * ☁️ Azure Cosmos DB integration
 * 📁 Azure File Storage JSON backups
-* 🔄 Automatic synchronization between database and file storage
+* 🔄 Automatic synchronization between databas and file storage
 * 📄 Download product JSON documents
 * 🛡️ Global exception handling middleware
 * 🔐 CORS configuration
